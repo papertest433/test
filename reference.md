@@ -1,7 +1,3 @@
-# Deep Learning for Video Anomaly Detection: A Review
-
-This is the official repository for the paper entitled "**Deep Learning for Video Anomaly Detection: A Review**". 
-
 ## 📖 Table of contents
 
 - [Existing Reviews](#reviews)
@@ -1211,16 +1207,3 @@ The following tables are the performance comparison of semi-supervised VAD, weak
   | TMAE      | ICME 2022   | Change detection | 89.8   | -           | 75.7 | 94.1 | 71.4        | -    |
   | CIL       | AAAI 2022   | Others           | 90.3   | 97.6        | 84.9 | 99.4 | -           | 100  |
   | LBR-SPR   | CVPR 2022   | Others           | 92.8   | -           | 81.1 | 97.2 | 72.6        | -    |
-
-## Citation
-
-If you find our work useful, please cite our paper:
-
-```
-@article{wu2024deep,
-  title={Deep Learning for Video Anomaly Detection: A Review},
-  author={Wu, Peng and Pan, Chengyu and Yan, Yuting and Pang, Guansong and Wang, Peng and Zhang, Yanning},
-  journal={arXiv preprint arXiv:xxxxx},
-  year={2024}
-}
-```
