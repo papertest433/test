@@ -846,6 +846,10 @@
 
 - 📄 [DMU](https://ojs.aaai.org/index.php/AAAI/article/view/25489):Dual memory units with uncertainty regulation for weakly supervised video anomaly detection, 📰 `AAAI`  [code](https://github.com/henrryzh1/UR-DMU)
 
+🗓️ **2025**
+
+- 📄 [DEN-ATM](https://ieeexplore.ieee.org/document/10957754):Dynamic erasing network with adaptive temporal modeling for weakly supervised video anomaly detection, 📰 `TNNLS`
+
 #### 2.3.2 Spatio-Temporal Modeling
 
 🗓️ **2022**
