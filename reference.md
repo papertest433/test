@@ -1056,6 +1056,9 @@
 
 - 📄 [C2FPL](https://openaccess.thecvf.com/content/WACV2024/html/Al-lahham_A_Coarse-To-Fine_Pseudo-Labeling_C2FPL_Framework_for_Unsupervised_Video_Anomaly_Detection_WACV_2024_paper.html):A coarse-to-fine pseudo-labeling (c2fpl) framework for unsupervised video anomaly detection, 📰 `WACV`  [code](https://github.com/AnasEmad11/C2FPL)
 
+- 📄 [LANP](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/00941.pdf):Learning anomalies with normality prior for unsupervised video anomaly detection, 📰 `ECCV`  [code](https://github.com/shyern/LANP-UVAD)
+  
+- 📄 [FRD](https://ieeexplore.ieee.org/document/10539327):Feature reconstruction with disruption for unsupervised video anomaly detection, 📰 `TMM`  [code](https://github.com/tcc-power/FRD-unsupervised-video-anomaly-detection)
 ### 4.2 Change Detection Based Paradigm
 
 🗓️ **2016**
