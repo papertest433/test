@@ -1011,6 +1011,10 @@
   🗓️ **2020**
 
 - 📄 [SPIL](https://link.springer.com/chapter/10.1007/978-3-030-58548-8_5):Human interaction learning on 3d skeleton point clouds for video violence recognition, 📰 `ECCV`
+  
+  🗓️ **2024**
+
+- 📄 [RTPNet](https://www.sciencedirect.com/science/article/pii/S1077314224002042):A framework for detecting fighting behavior based on key points of human skeletal posture, 📰 `CVIU`[dataset](https://github.com/ChinaZhangPeng/Violence-Image-Dataset)
 
 ### 3.4 Audio Input
 
