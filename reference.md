@@ -1077,6 +1077,10 @@
 - 📄 [CIL](https://ojs.aaai.org/index.php/AAAI/article/view/20053):A causal inference look at unsupervised video anomaly detection, 📰 `AAAI`
 
 - 📄 [LBR-SPR](https://openaccess.thecv.com/content/CVPR2022/html/Yu_Deep_Anomaly_Discovery_From_Unlabeled_Videos_via_Normality_Advantage_and_CVPR_2022_paper.html):Deep anomaly discovery from unlabeled videos via normality advantage and self-paced refinement, 📰 `CVPR`  [code](https://github.com/yuguangnudt/LBR_SPR)
+  
+🗓️ **2024**
+
+- 📄 [CLAP](https://openaccess.thecvf.com/content/CVPR2024/papers/Al-lahham_Collaborative_Learning_of_Anomalies_with_Privacy_CLAP_for_Unsupervised_Video_CVPR_2024_paper.pdf):Collaborative learning of anomalies with privacy (clap) for unsupervised video anomaly detection: A new baseline, 📰 `CVPR`  [code](https://github.com/AnasEmad11/CLAP)
 
 ## 5. Open Set Supervised Video Anomaly Detection
 
