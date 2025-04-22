@@ -523,6 +523,10 @@
 
 - 📄 [AnomalyRuler](https://openaccess.thecvf.com/content/CVPR2023/html/Singh_EVAL_Explainable_Video_Anomaly_Localization_CVPR_2023_paper.html):Follow the rules: Reasoning for video anomaly detection with large language models, 📰 `ECCV` [code](https://github.com/Yuchen413/AnomalyRuler)
 
+- 📄 [VLAVAD](https://bmva-archive.org.uk/bmvc/2024/papers/Paper_599/paper.pdf):Vlavad: vision-language models assisted unsupervised video anomaly detection, 📰 `BMVC`
+
+- 📄 [SlowFastVAD](https://arxiv.org/abs/2504.10320):SlowFastVAD: video anomaly detection via integrating simple detector and RAG-enhanced vision-language model, 📰 `arxiv`
+
 ### 1.3 Network Architecture
 
 #### 1.3.1 Auto-Encoder
