@@ -835,13 +835,10 @@
 - 📄 [VADor](https://arxiv.org/abs/2401.05702):video anomaly detection and explanation via largelanguage models, 📰 `arxiv`
 
 - 📄 [LAVAD](https://openaccess.thecvf.com/content/CVPR2024/papers/Zanella_Harnessing_Large_Language_Models_for_Training-free_Video_Anomaly_Detection_CVPR_2024_paper.pdf):Harnessing large language models for training-free video anomaly detection, 📰 `CVPR`  [code](https://github.com/lucazanella/lavad)
-🗓️ **2025**
+
+🗓️ **2025**/
 
 - 📄 [VERA](https://arxiv.org/abs/2412.01095):Vera: explainable video anomaly detection via verbalized learning of vision-language models, 📰 `CVPR`  [code](https://github.com/vera-framework/VERA)
-
-
-
-
 
 ### 2.3 Refinement Strategy
 
