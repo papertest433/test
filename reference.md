@@ -525,6 +525,8 @@
 
 - 📄 [VLAVAD](https://bmva-archive.org.uk/bmvc/2024/papers/Paper_599/paper.pdf):Vlavad: vision-language models assisted unsupervised video anomaly detection, 📰 `BMVC`
 
+🗓️ **2025**
+
 - 📄 [SlowFastVAD](https://arxiv.org/abs/2504.10320):SlowFastVAD: video anomaly detection via integrating simple detector and RAG-enhanced vision-language model, 📰 `arxiv`
 
 ### 1.3 Network Architecture
@@ -811,6 +813,35 @@
 🗓️ **2024**
 
 - 📄 [TPWNG](https://openaccess.thecvf.com/content/CVPR2024/html/Yang_Text_Prompt_with_Normality_Guidance_for_Weakly_Supervised_Video_Anomaly_CVPR_2024_paper.html):Text prompt with normality guidance for weakly supervised video anomaly detection, 📰 `CVPR`
+
+#### 2.2.3 VLM-based Interpretable Learning
+
+🗓️ **2024**
+
+##### 2.2.3.1 Category-level interpretability
+
+- 📄 [VadCLIP](https://dl.acm.org/doi/abs/10.1609/aaai.v38i6.28423):VadCLIP: adapting vision-language models for weakly supervised video anomaly detection, 📰 `AAAI`  [code](https://github.com/nwpu-zxr/VadCLIP)
+
+- 📄 [TPWNG](https://openaccess.thecvf.com/content/CVPR2024/html/Yang_Text_Prompt_with_Normality_Guidance_for_Weakly_Supervised_Video_Anomaly_CVPR_2024_paper.html):Text prompt with normality guidance for weakly supervised video anomaly detection, 📰 `CVPR`
+
+##### 2.2.3.2 Semantic-level interpretability
+
+🗓️ **2024**
+
+- 📄 [HAWK](https://openreview.net/forum?id=vBKoEZ1PG3&referrer=%5Bthe%20profile%20of%20Ying-Cong%20Chen%5D(%2Fprofile%3Fid%3D~Ying-Cong_Chen1)):Hawk: learning to understand open-world video anomalies, 📰 `NeurIPS`  [code](https://github.com/jqtangust/hawk)
+
+- 📄 [CUVA](https://openaccess.thecvf.com/content/CVPR2024/papers/Du_Uncovering_What_Why_and_How_A_Comprehensive_Benchmark_for_Causation_CVPR_2024_paper.pdf):Uncovering what why and how: a comprehensive benchmark for causation understanding of video anomaly, 📰 `CVPR`  [code](https://github.com/fesvhtr/CUVA)
+
+- 📄 [VADor](https://arxiv.org/abs/2401.05702):video anomaly detection and explanation via largelanguage models, 📰 `arxiv`
+
+- 📄 [LAVAD](https://openaccess.thecvf.com/content/CVPR2024/papers/Zanella_Harnessing_Large_Language_Models_for_Training-free_Video_Anomaly_Detection_CVPR_2024_paper.pdf):Harnessing large language models for training-free video anomaly detection, 📰 `CVPR`  [code](https://github.com/lucazanella/lavad)
+🗓️ **2025**
+
+- 📄 [VERA](https://arxiv.org/abs/2412.01095):Vera: explainable video anomaly detection via verbalized learning of vision-language models, 📰 `CVPR`  [code](https://github.com/vera-framework/VERA)
+
+
+
+
 
 ### 2.3 Refinement Strategy
 
