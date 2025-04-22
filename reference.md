@@ -528,7 +528,7 @@
 
 🗓️ **2025**
 
-- 📄 [SlowFastVAD](https://arxiv.org/abs/2504.10320):SlowFastVAD: video anomaly detection via integrating simple detector and RAG-enhanced vision-language model, 📰 `arxiv`
+- 📄 [SlowFastVAD](https://arxiv.org/abs/2504.10320):Slowfastvad: video anomaly detection via integrating simple detector and RAG-enhanced vision-language model, 📰 `arxiv`
 
 ### 1.3 Network Architecture
 
@@ -665,13 +665,19 @@
 
 ### 1.5 Model Output
 
-#### 1.5.1 Frame Level
+#### 1.5.1 Frame Level Detection
 
-#### 1.5.2 Pixel Level
+#### 1.5.2 Pixel Level Detection
 
 🗓️ **2022**
 
 - 📄 [UPformer](https://dl.acm.org/doi/abs/10.1145/3503161.3548082):Pixel-level anomaly detection via uncertainty-aware prototypical transformer, 📰 `ACM MM`
+
+#### 1.5.3 Sentence-level Description
+
+🗓️ **2025**
+
+- 📄 [SlowFastVAD](https://arxiv.org/abs/2504.10320):SlowFastVAD: video anomaly detection via integrating simple detector and RAG-enhanced vision-language model, 📰 `arxiv`
 
 ## 2. Weakly Supervised Video Anomaly Detection
 
@@ -987,9 +993,19 @@
 
 ### 2.4 Model Output
 
-#### 2.4.1 Frame Level
+#### 2.4.1 Frame-Level Detection
 
-#### 2.4.2 Pixel Level
+#### 2.4.2 Pixel-Level Detection
+
+🗓️ **2019**
+
+- 📄 [Background-bias](https://dl.acm.org/doi/abs/10.1145/3343031.3350998):Exploring background-bias for anomaly detection in surveillance videos, 📰 `ACM MM` [code](https://github.com/xuzero/UCFCrime_BoundingBox_Annotation)
+
+🗓️ **2021**
+
+- 📄 [WSSTAD](https://arxiv.org/abs/2108.03825):Weakly-supervised spatio-temporal anomaly detection in surveillance video, 📰 `IJCAI`
+
+#### 2.4.3 Sentence-Level Description
 
 🗓️ **2019**
 
