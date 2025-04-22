@@ -1009,14 +1009,6 @@
 
 #### 2.4.3 Sentence-Level Description
 
-🗓️ **2019**
-
-- 📄 [Background-bias](https://dl.acm.org/doi/abs/10.1145/3343031.3350998):Exploring background-bias for anomaly detection in surveillance videos, 📰 `ACM MM` [code](https://github.com/xuzero/UCFCrime_BoundingBox_Annotation)
-
-🗓️ **2021**
-
-- 📄 [WSSTAD](https://arxiv.org/abs/2108.03825):Weakly-supervised spatio-temporal anomaly detection in surveillance video, 📰 `IJCAI`
-
 ## 3. Fully Supervised Video Anomaly Detection
 
 ### 3.1 Appearance Input
