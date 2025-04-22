@@ -32,6 +32,7 @@
     - [2.2 Methodology](#22-methodology)
       - [2.2.1 One-Stage MIL](#221-One-Stage-MIL)
       - [2.2.2 Two-Stage Self-Training](#222-Two-Stage-Self-Training)
+      - [2.2.3 VLM-based Interpretable Learning](#223-VLM-based-Interpretable-Learning)
     - [2.3 Refinement Strategy](#23-Refinement-Strategy)
       - [2.3.1 Temporal Modeling](#231-Temporal-Modeling)
       - [2.3.2 Spatio-Temporal Modeling](#232-Spatio-Temporal-Modeling)
@@ -836,7 +837,7 @@
 
 - 📄 [LAVAD](https://openaccess.thecvf.com/content/CVPR2024/papers/Zanella_Harnessing_Large_Language_Models_for_Training-free_Video_Anomaly_Detection_CVPR_2024_paper.pdf):Harnessing large language models for training-free video anomaly detection, 📰 `CVPR`  [code](https://github.com/lucazanella/lavad)
 
-🗓️ **2025**/
+🗓️ **2025**
 
 - 📄 [VERA](https://arxiv.org/abs/2412.01095):Vera: explainable video anomaly detection via verbalized learning of vision-language models, 📰 `CVPR`  [code](https://github.com/vera-framework/VERA)
 
