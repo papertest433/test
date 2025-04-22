@@ -20,8 +20,9 @@
       - [1.4.1 Pseudo Anomalies](#141-Pseudo-Anomalies)
       - [1.4.2 Memory Bank](#142-Memory-Bank)
     - [1.5 Model Output](#15-Model-Output)
-      - [1.5.1 Frame Level](#151-Frame-level)
-      - [1.5.2 Pixel Level](#152-Pixel-level)
+      - [1.5.1 Frame Level](#151-Frame-level-Description)
+      - [1.5.2 Pixel Level](#152-Pixel-level-Description)
+      - [1.5.3 Sentence-Level Description](#153-Sentence-Level-Description)
   - [2. Weakly Supervised Video Anomaly Detection](#2-weakly-supervised-video-anomaly-detection)
     - [2.1 Model Input](#21-Model-Input)
       - [2.1.1 RGB](#211-RGB)
@@ -41,8 +42,9 @@
       - [2.3.5 Knowledge Distillation](#235-Knowledge-Distillation)
       - [2.3.6 Leveraging Large Models](#236-Leveraging-Large-Models)
     - [2.4 Model Output](#24-Model-Output)
-      - [2.4.1 Frame Level](#241-Frame-Level)
-      - [2.4.2 Pixel Level](#242-Pixel-Level)
+      - [2.4.1 Frame Level](#241-Frame-Level-Description)
+      - [2.4.2 Pixel Level](#242-Pixel-Level-Description)
+      - [2.4.3 Sentence-Level Description](#243-Sentence-Level-Description)
   - [3. Fully Supervised Video Anomaly Detection](#3-Fully-Supervised-Video-Anomaly-Detection)
     - [3.1 Appearance Input](#31-Appearance-Input)
     - [3.2 Motion Input](#32-Motion-Input)
@@ -665,15 +667,15 @@
 
 ### 1.5 Model Output
 
-#### 1.5.1 Frame Level Detection
+#### 1.5.1 Frame-Level Detection
 
-#### 1.5.2 Pixel Level Detection
+#### 1.5.2 Pixel-Level Detection
 
 🗓️ **2022**
 
 - 📄 [UPformer](https://dl.acm.org/doi/abs/10.1145/3503161.3548082):Pixel-level anomaly detection via uncertainty-aware prototypical transformer, 📰 `ACM MM`
 
-#### 1.5.3 Sentence-level Description
+#### 1.5.3 Sentence-Level Description
 
 🗓️ **2025**
 
